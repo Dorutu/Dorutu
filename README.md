@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dorutu
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on java projects
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on Web development projects
 - 📫 How to reach me ... dorubota123@gmail.com
 
 <!---
