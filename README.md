@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dorutu
+- 👋 Hi there, I’m @Dorutu
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently working
 - 📫 How to reach me ... dorubota123@gmail.com
