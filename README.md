@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m @Dorutu
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently working
+- 🌱 I’m not currently working
 - 📫 How to reach me ... dorubota123@gmail.com
 
 <!---
